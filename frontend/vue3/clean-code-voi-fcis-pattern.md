@@ -28,4 +28,13 @@ Mindset chính của FCIS là tách **Business** và **Handle Side Effect** ra l
 
 #### 1. Functional Core (FC)
 
-FC là phần core của hệ thống&#x20;
+**FC** là phần core của hệ thống chứa các **Business Logic.** Những function này cần thỏa 2 yếu tố:
+
+* Là một **Pure Function** (là function với một input chỉ trả về duy nhất 1 input)
+* Không chứa xử lý **Side Effect**&#x20;
+
+#### 2.  Imperative Shell (IS)
+
+**IS** là nơi xử lý **Side Effec**t của ứng dụng, có thể là: Xử lý DB, API, Side effect component, Third party...
+
+<figure><img src="../../.gitbook/assets/fcis-pattern.png" alt="" width="375"><figcaption><p>FCIS pattern</p></figcaption></figure>
