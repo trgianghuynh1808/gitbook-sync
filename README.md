@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/5da6d3d71350be0ee741.jpg
+cover: .gitbook/assets/hero-background
 coverY: 0
 layout:
   cover:
