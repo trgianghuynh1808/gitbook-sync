@@ -25,4 +25,4 @@ Chào mọi người, mình là Eri. Blog này nhầm tạo không gian nhỏ đ
 
 Nếu có chủ đề nào mọi người quan tâm hoặc muốn trao đổi với mình nhiều hơn. Có thể liên hệ với mình qua:&#x20;
 
-* Email: trgianghuynhdev1808@gmail.com
+* Email: erihuynh.dev@gmail.com
